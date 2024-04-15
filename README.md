@@ -15,5 +15,5 @@ This project showcases a personal portfolio website created using a template and
 🚀 Explore the Portfolio:
 Visit the portfolio website to discover the showcased projects and interact with the dynamic features.
 
-💼 GitHub Repository: 
+💼 GitHub Repository: https://illuminatia07.github.io/my-portfolio/
 
